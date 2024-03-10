@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀 Apasionado por el mundo del desarrollo de software y siempre en búsqueda de nuevos desafíos y conocimientos. Soy un programador junior con una gran sed de aprendizaje y un enfoque especializado en Java y JavaScript.<br><br>💻 Mi aventura en el mundo de la programación comenzó con la curiosidad de entender cómo funcionan las cosas en el mundo digital, y desde entonces no he dejado de explorar y crear. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que impacten de manera positiva en la vida de las personas.<br><br>🌱 Constantemente aprendiendo y creciendo, estoy abierto a nuevas oportunidades para expandir mis habilidades y colaborar en proyectos interesantes. Me encanta trabajar en equipo y enfrentar desafíos que me permitan superarme a mí mismo.<br><br>🔧 Experto en Java y JavaScript, con conocimientos en frameworks como Spring Boot y React. Siempre estoy buscando mejorar mis habilidades técnicas y aprender nuevas tecnologías que me permitan seguir creciendo como profesional.<br><br>💡 ¡Listo para sumergirme en emocionantes proyectos y contribuir con mi pasión y dedicación! ¡Conéctate conmigo y hagamos cosas increíbles juntos!
+💻 ¡Hola! Soy un apasionado desarrollador Frontend con experiencia en la creación de experiencias web cautivadoras. Mi enfoque principal incluye tecnologías como HTML, CSS y JavaScript, junto con frameworks como ReactJS y Angular.
+
+🚀 Siempre estoy buscando oportunidades para expandir mis habilidades y enfrentar desafíos emocionantes en el mundo del desarrollo web. Disfruto colaborando en equipo y contribuyendo con ideas innovadoras para impulsar proyectos hacia el éxito.
+
+🌱 Con un fuerte deseo de aprendizaje continuo, me esfuerzo por mantenerme al día con las últimas tendencias y tecnologías en el campo del desarrollo web. Mi objetivo es crear soluciones que no solo sean funcionales, sino también estéticamente atractivas y fáciles de usar.
+
+💡 ¡Conéctate conmigo para explorar oportunidades de colaboración o simplemente para hablar sobre todo lo relacionado con el desarrollo web y la tecnología! Estoy emocionado de conectar y compartir conocimientos con profesionales apasionados como tú.
 
 
 ## 🌐 Socials:
