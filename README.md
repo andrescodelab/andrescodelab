@@ -7,7 +7,7 @@
 
 💬 ¡Me encantaría conectarme contigo para charlar sobre desarrollo web, tecnología o cualquier cosa que nos apasione! No dudes en enviarme un mensaje si quieres colaborar en un proyecto o simplemente hablar sobre nuestras experiencias en el campo.
 
-{andrescodelab}
+                                                {andrescodelab}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-pérez-garcía) 
