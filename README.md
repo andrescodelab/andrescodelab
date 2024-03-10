@@ -1,12 +1,13 @@
 # 💫 About Me:
-💻 ¡Hola! Soy un apasionado desarrollador Frontend con experiencia en la creación de experiencias web cautivadoras. Mi enfoque principal incluye tecnologías como HTML, CSS y JavaScript, junto con frameworks como ReactJS y Angular.
+👋 ¡Hola! Soy un desarrollador Frontend al que le fascina crear sitios web que emocionen a los usuarios. Me encanta trabajar con HTML, CSS y JavaScript, así como con frameworks como ReactJS y Angular.
 
-🚀 Siempre estoy buscando oportunidades para expandir mis habilidades y enfrentar desafíos emocionantes en el mundo del desarrollo web. Disfruto colaborando en equipo y contribuyendo con ideas innovadoras para impulsar proyectos hacia el éxito.
+💼 Estoy en constante búsqueda de nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo web. Disfruto colaborando con equipos creativos y aportando ideas frescas para llevar proyectos al siguiente nivel.
 
-🌱 Con un fuerte deseo de aprendizaje continuo, me esfuerzo por mantenerme al día con las últimas tendencias y tecnologías en el campo del desarrollo web. Mi objetivo es crear soluciones que no solo sean funcionales, sino también estéticamente atractivas y fáciles de usar.
+🌱 Siempre estoy aprendiendo y tratando de estar al tanto de las últimas tendencias en diseño web. Mi objetivo es no solo construir sitios funcionales, sino también fáciles de usar.
 
-💡 ¡Conéctate conmigo para explorar oportunidades de colaboración o simplemente para hablar sobre todo lo relacionado con el desarrollo web y la tecnología! Estoy emocionado de conectar y compartir conocimientos con profesionales apasionados como tú.
+💬 ¡Me encantaría conectarme contigo para charlar sobre desarrollo web, tecnología o cualquier cosa que nos apasione! No dudes en enviarme un mensaje si quieres colaborar en un proyecto o simplemente hablar sobre nuestras experiencias en el campo.
 
+{andrescodelab}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-pérez-garcía) 
