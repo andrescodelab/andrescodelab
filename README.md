@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un desarrollador Frontend al que le fascina crear sitios web que emocionen a los usuarios. Me encanta trabajar con HTML, CSS y JavaScript, así como con frameworks como ReactJS y Angular.
+👋 ¡Hola! Soy Andrés, un desarrollador Frontend al que le fascina crear sitios web que sorprendan a los usuarios. Me encanta trabajar con HTML, CSS y JavaScript, así como con frameworks como ReactJS y Angular.
+
+💻 Además, tengo experiencia en el desarrollo backend, donde utilizo tecnologías como Node.js, Express.js y MongoDB para construir la lógica del servidor y gestionar bases de datos de manera eficiente.
 
 💼 Estoy en constante búsqueda de nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo web. Disfruto colaborando con equipos creativos y aportando ideas frescas para llevar proyectos al siguiente nivel.
 
