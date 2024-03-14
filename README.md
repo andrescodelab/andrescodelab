@@ -13,6 +13,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-pérez-garcía)
+
 [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-%23181717.svg?logo=google-chrome&logoColor=white)](https://andresperezgarcia.000webhostapp.com/inicio)
 
 # 💻 Tech Stack:
